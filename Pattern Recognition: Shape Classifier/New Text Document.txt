@@ -1,0 +1,5 @@
+https://kapernikov.com/tutorial-image-classification-with-scikit-learn/
+
+https://gogul.dev/software/image-classification-python
+
+https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
