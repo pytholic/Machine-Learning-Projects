@@ -1,0 +1,6 @@
+SUMMARY:
+
+I used XGD regressor as the model. XGBoost is a popular implementation of the gradient boosted trees algorithm. Gradient boosting is a supervised learning algorithm, which attempts to accurately predict a target variable by combining the estimates of a set of simpler, weaker models.
+
+First we visualize the data and see the most useful features by checking correlations. The we check if there are any missing values that need to be filled. The nwe separate the data into training and testing set and then fit the model. Later we use the mdoel for predictions.
+

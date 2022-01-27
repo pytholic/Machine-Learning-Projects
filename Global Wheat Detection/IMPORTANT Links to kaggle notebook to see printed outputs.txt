@@ -1,0 +1,4 @@
+When I download notebooks from kaggle, the printed results got removed. So here are the links to see them.
+
+https://www.kaggle.com/rajahaseeb/20194673-training-final
+https://www.kaggle.com/rajahaseeb/20194673-test-final

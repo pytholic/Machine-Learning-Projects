@@ -1,0 +1,8 @@
+***Intstruction to run the code***
+
+1) Use Jupyter Notebook and run code cell by cell. File is provided in 'ipynb' format
+
+2) Install any of the missing library by using terminal as 'pip install xyx' where xyx is the missing
+library
+
+3) Change csv input directories according to your PATH
